@@ -1,2 +1,2 @@
-# Food Ordering System.java
-this is a food ordering system in java
+# Food Ordering Application.java
+this is a food ordering Application in java
